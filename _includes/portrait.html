@@ -1,0 +1,41 @@
+
+
+
+<div class="portrait-wrapper">
+    <a
+            href="{{ person.url | relative_url }}"
+            class="portrait"
+            data-style="{{ include.style }}"
+            aria-label="{{ person.name | default: "member link" }}"
+    >
+    {% if type %}
+    {% include icon.html icon=type.icon %}
+    {% endif %}
+
+    <img
+            src="{{ person.avatar | relative_url }}"
+            class="portrait-image"
+            alt="member portrait"
+            loading="lazy"
+            {% include fallback.html %}
+    >
+
+    {% if person.name %}
+    <span class="portrait-name">
+        {{ person.name }}
+      </span>
+    {% endif %}
+
+    {% if person.description or type %}
+    <span class="portrait-description">
+        {{ person.description | default: type.description }}
+      </span>
+    {% endif %}
+
+    {% if member.affiliation %}
+    <span class="portrait-affiliation">
+        {{ person.affiliation }}
+      </span>
+    {% endif %}
+    </a>
+</div>

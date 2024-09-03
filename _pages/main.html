@@ -1,0 +1,26 @@
+---
+layout: home
+title: "Main"
+permalink: /main/
+author_profile: false
+---
+
+{% include base_path %}
+
+{% assign welcome_content = site.pages | where: "name", "welcome.md" | first %}
+{{ welcome_content.content | markdownify }}
+
+
+
+{% assign mentors = site.people | where:"level","mentor" %}
+{% for person in mentors %}
+{% include portrait.html person=person %}
+{% endfor %}
+
+<br> <!-- 添加换行 -->
+
+
+{% assign non_mentors = site.people | where_exp: "person", "person.level != 'mentor'" %}
+{% for person in non_mentors %}
+{% include portrait.html person=person %}
+{% endfor %}

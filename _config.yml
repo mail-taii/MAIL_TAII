@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "MAIL_TAII"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -221,6 +221,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  people:
+    output: true
+    permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
@@ -276,6 +279,14 @@ defaults:
       type: talks
     values:
       layout: talk
+      author_profile: true
+      share: true
+  # people
+  - scope:
+      path: ""
+      type: people
+    values:
+      layout: person
       author_profile: true
       share: true
 
