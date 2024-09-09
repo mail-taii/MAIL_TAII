@@ -21,12 +21,12 @@ repository               : "BriSky-2021.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "jishilou.jpg"
+  name             : "MAIL-TAII"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "This is the lab for MAIL-TAII in Tongji"
+  location         : "中国上海"
+  employer         : "Tongji University"
   uri              : # URL
   email            : "none@example.org" 
 

@@ -1,16 +1,16 @@
 ---
-name: "曹昀炀"
+name: "饶季勇"
 collection: people
 type: "Person"
-level: "student"
-permalink: /people/cyy
+level: "doctor"
+permalink: /people/rjy
 venue: "UC San Francisco, Department of Testing"
 date: 2012-03-01
-location: "San Francisco, California"
-description: "Hello I am cyy"
-avatar: "../images/avatar/曹昀炀图片.jpg"
-email: "caoyunyang@tongji.edu.cn"
-slug: "cyy"
+location: "中国上海"
+description: "Hello I am rjy"
+avatar: "avatar/饶季勇图片.jpg"
+email: "jiyongrao@tongji.edu.cn"
+slug: "rjy"
 ---
 
 

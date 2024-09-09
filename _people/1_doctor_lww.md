@@ -1,15 +1,15 @@
 ---
-name: "吴笛"
+name: "李文武"
 collection: people
 type: "Person"
-level: "student"
-permalink: /people/wd
+level: "doctor"
+permalink: /people/lww
 venue: "UC San Francisco, Department of Testing"
 date: 2012-03-01
-location: "San Francisco, California"
-description: "Hello I am wd"
-avatar: "../images/avatar/吴笛图片.jpg"
-slug: "wd"
+location: "中国上海"
+description: "Hello I am lww"
+avatar: "avatar/李文武照片_.jpg"
+slug: "lww"
 ---
 
 

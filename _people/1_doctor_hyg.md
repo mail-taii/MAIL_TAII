@@ -2,13 +2,13 @@
 name: "何仰光"
 collection: people
 type: "Person"
-level: "student"
+level: "doctor"
 permalink: /people/hyg
 venue: "UC San Francisco, Department of Testing"
 date: 2012-03-01
-location: "San Francisco, California"
+location: "中国上海"
 description: "Hello I am hyg"
-avatar: "../images/avatar/何仰光图片.jpg"
+avatar: "avatar/何仰光图片.jpg"
 email: "heyg@tongji.edu.cn"
 slug: "hyg"
 ---

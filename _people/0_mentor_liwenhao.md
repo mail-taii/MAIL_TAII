@@ -3,10 +3,10 @@ name: "李文浩"
 collection: people
 type: "Person"
 level: "mentor"
-permalink: /people/liwenwu
+permalink: /people/liwenhao
 venue: "UC San Francisco, Department of Testing"
 date: 2012-03-01
-location: "San Francisco, California"
+location: "中国上海"
 description: "Assistant Professor"
 avatar: "https://sse.tongji.edu.cn/__local/8/51/00/27B46E6E70B38E30C9BDCB76DE1_ECD96EE0_112E.jpg"
 slug: "liwenwu"

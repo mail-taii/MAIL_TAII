@@ -1,19 +1,16 @@
 ---
-name: "王艳天"
+name: "曹昀炀"
 collection: people
 type: "Person"
-level: "student"
-permalink: /people/wyt
+level: "doctor"
+permalink: /people/cyy
 venue: "UC San Francisco, Department of Testing"
 date: 2012-03-01
-location: "San Francisco, California"
-description: "Hello I am wyt"
-avatar: "../images/avatar/王艳天图片.jpg"
-email: "2433296@tongji.edu.cn"
-github: "https://github.com/BriSky-2021"
-research_direction: "None"
-bio: "hello I am wyt"
-slug: "wyt"
+location: "中国上海"
+description: "Hello I am cyy"
+avatar: "avatar/曹昀炀图片.jpg"
+email: "caoyunyang@tongji.edu.cn"
+slug: "cyy"
 ---
 
 

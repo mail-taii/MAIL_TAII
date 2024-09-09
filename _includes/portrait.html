@@ -12,13 +12,13 @@
     {% include icon.html icon=type.icon %}
     {% endif %}
 
-    <img
-            src="{{ person.avatar | relative_url }}"
-            class="portrait-image"
-            alt="member portrait"
-            loading="lazy"
-            {% include fallback.html %}
-    >
+    {% if person.avatar contains "://" %}
+    <img src="{{ person.avatar }}" alt="{{ person.name }}" class="portrait-image">
+    {% else %}
+    <img src="{{ person.avatar | prepend: "/images/" | prepend: base_path }}" class="portrait-image" alt="{{ person.name }}">
+    {% endif %}
+
+
 
     {% if person.name %}
     <span class="portrait-name">

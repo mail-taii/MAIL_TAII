@@ -1,16 +1,15 @@
 ---
-name: "饶季勇"
+name: "吴笛"
 collection: people
 type: "Person"
-level: "student"
-permalink: /people/rjy
+level: "master"
+permalink: /people/wd
 venue: "UC San Francisco, Department of Testing"
 date: 2012-03-01
-location: "San Francisco, California"
-description: "Hello I am rjy"
-avatar: "../images/avatar/饶季勇图片.jpg"
-email: "jiyongrao@tongji.edu.cn"
-slug: "rjy"
+location: "中国上海"
+description: "Hello I am wd"
+avatar: "avatar/吴笛图片.jpg"
+slug: "wd"
 ---
 
 

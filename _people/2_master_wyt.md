@@ -1,16 +1,19 @@
 ---
-name: "吕嘉琪"
+name: "王艳天"
 collection: people
 type: "Person"
-level: "student"
-permalink: /people/ljq
+level: "master"
+permalink: /people/wyt
 venue: "UC San Francisco, Department of Testing"
 date: 2012-03-01
-location: "San Francisco, California"
-description: "Hello I am ljq"
-avatar: "../images/avatar/吕嘉琪图片.jpg"
-email: "lvjiaqi@tongji.edu.cn"
-slug: "ljq"
+location: "中国上海"
+description: "Hello I am wyt"
+avatar: "avatar/王艳天图片.jpg"
+email: "2433296@tongji.edu.cn"
+github: "https://github.com/BriSky-2021"
+research_direction: "None"
+bio: "hello I am wyt"
+slug: "wyt"
 ---
 
 

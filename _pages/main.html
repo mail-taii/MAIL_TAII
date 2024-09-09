@@ -1,8 +1,11 @@
 ---
-layout: home
-title: "Main"
+layout: archive
+title: "Introduction"
 permalink: /main/
-author_profile: false
+author_profile: true
+redirect_from:
+- /
+- /main.html
 ---
 
 {% include base_path %}
@@ -12,15 +15,3 @@ author_profile: false
 
 
 
-{% assign mentors = site.people | where:"level","mentor" %}
-{% for person in mentors %}
-{% include portrait.html person=person %}
-{% endfor %}
-
-<br> <!-- 添加换行 -->
-
-
-{% assign non_mentors = site.people | where_exp: "person", "person.level != 'mentor'" %}
-{% for person in non_mentors %}
-{% include portrait.html person=person %}
-{% endfor %}
