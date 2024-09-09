@@ -12,7 +12,7 @@ title                    : "MAIL_TAII"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://brisky-2021.github.io/MAIL_TAII/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://brisky-2021.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "BriSky-2021.github.io"
 
