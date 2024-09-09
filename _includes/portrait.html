@@ -3,7 +3,7 @@
 
 <div class="portrait-wrapper">
     <a
-            href="{{ person.url | relative_url }}"
+            href="{{ base_path }}{{ person.url }}" rel="permalink"
             class="portrait"
             data-style="{{ include.style }}"
             aria-label="{{ person.name | default: "member link" }}"

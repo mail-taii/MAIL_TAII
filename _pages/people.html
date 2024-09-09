@@ -19,8 +19,8 @@ author_profile: true
 
 <br>
 
-{% assign non_mentors = site.people | where_exp: "person", "person.level == 'doctor'" %}
-{% for person in non_mentors %}
+{% assign doctors = site.people | where_exp: "person", "person.level == 'doctor'" %}
+{% for person in doctors %}
 {% include portrait.html person=person %}
 {% endfor %}
 
@@ -29,7 +29,7 @@ author_profile: true
 
 <br>
 
-{% assign mentors = site.people | where:"level","master " %}
-{% for person in mentors %}
+{% assign masters = site.people | where:"level","master" %}
+{% for person in masters %}
 {% include portrait.html person=person %}
 {% endfor %}
