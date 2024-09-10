@@ -5,6 +5,9 @@
 # prevent it from being included in the site.
 
 main:
+  - title: "Introduction"
+    url: /main/
+
   - title: "People"
     url: /people/
 
@@ -15,16 +18,11 @@ main:
     url: /talks/    
 
   - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
+    url: /teaching/
         
   - title: "Blog Posts"
     url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+
+  - title: "Albums"
+    url: /albums/
+

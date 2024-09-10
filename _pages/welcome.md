@@ -1,8 +1,10 @@
 
 ## Welcome
 
-this is the lab website for MAIL_TAII.
+this is the website for MAIL_TAII.
+
+(Multi-agent Artificial Intelligence Laboratory (MAIL))
 
 Our lab is made up of a highly engaged and collaborative team of researchers.
 
-![](../images/jishilou.jpg)
+![](/images/jishilou.jpg)
