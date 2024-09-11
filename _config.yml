@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "MAIL_TAII"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "MAIL_TAII"
 description              : &description "personal description"
 url                      : https://brisky-2021.github.io/MAIL_TAII # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -21,7 +21,7 @@ repository               : "BriSky-2021.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "jishilou.jpg"
+  avatar           : "logo5.jpeg"
   name             : "MAIL-TAII"
   pronouns         : # example: "she/her"  
   bio              : "This is the lab for MAIL-TAII in Tongji"
