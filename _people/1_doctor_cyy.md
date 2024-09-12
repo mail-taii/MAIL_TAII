@@ -14,6 +14,6 @@ slug: "cyy"
 ---
 
 
-[More information here](http://exampleurl.com)
-
-This is a description of your tutorial, note the different field in type. This is a markdown files that can be all markdown-ified like any other post. Yay markdown!
+## 教育经历
+华东师范大学统计学（本科）
+华东师范大学应用统计（硕士）

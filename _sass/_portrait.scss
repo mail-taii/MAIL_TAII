@@ -13,6 +13,12 @@
   width: 175px;
   max-width: calc(100% - 20px - 20px);
   text-decoration: none;
+
+  // 这里是针对 mentor 的样式
+  &.mentor-portrait {
+    margin: 40px; // 1.5倍间隔
+    width: 200px;
+  }
 }
 
 .portrait[data-style="small"] {

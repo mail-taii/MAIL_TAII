@@ -12,7 +12,6 @@ avatar: "avatar/李文武照片_.jpg"
 slug: "lww"
 ---
 
-
-[More information here](http://exampleurl.com)
-
-This is a description of your tutorial, note the different field in type. This is a markdown files that can be all markdown-ified like any other post. Yay markdown!
+## 教育经历
+电子科技大学计算机科学与技术（本科）
+广西大学计算机科学与技术（硕士）

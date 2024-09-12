@@ -13,7 +13,6 @@ email: "2210752@tongji.edu.cn"
 slug: "dl"
 ---
 
-
-[More information here](http://exampleurl.com)
-
-This is a description of your tutorial, note the different field in type. This is a markdown files that can be all markdown-ified like any other post. Yay markdown!
+## 教育经历
+南京信息工程大学 信息工程（本科）
+上海大学 系统工程（硕士）

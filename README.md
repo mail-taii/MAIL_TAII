@@ -4,6 +4,44 @@
 
 Academic Pages is a Github Pages template for academic websites.
 
+
+# For Members to modify personal page
+1. open folder _people and find your own md file. e.g. 2_master_wyt.md
+2. modify the markdown file
+3. pull request
+
+when open the file ,you wound see
+```markdown
+
+---
+name: "王艳天"
+collection: people  
+type: "Person"
+level: "master"
+permalink: /people/wyt
+venue: "UC San Francisco, Department of Testing"
+date: 2012-03-01
+location: "中国上海"   --所在位置 (用于侧边栏)
+description: "Hello I am wyt"  人物页面的简短描述，填写研究方向或者职位
+avatar: "avatar/王艳天图片.jpg"  --头像 
+email: "2433296@tongji.edu.cn"  --邮箱  (用于侧边栏)
+github: "https://github.com/BriSky-2021"  --github链接  (用于侧边栏) [还可以添加如arxiv，googlescholar，orcid，weibo，youtube，zhihu等多种信息]
+research_direction: "None"  --研究方向
+bio: "hello I am wyt"  --简短自我介绍（用于侧边栏）
+slug: "wyt"
+---
+
+
+## 教育经历
+同济大学软件学院软件工程（本科）
+
+[在此可以随意添加markdown格式信息，自我介绍等]
+
+
+```
+You are free to modify and add new information here!
+
+
 # Run
 ```shell
 bundle exec jekyll serve -l -H localhost
