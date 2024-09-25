@@ -15,6 +15,9 @@ layout: default
 {% endif %}
 
 
+{% include masthead.html %}
+
+
 <div id="main" role="main">
     {% assign current_person = site.people | where: "slug", page.slug | first %}
     {% include person_sidebar.html person=current_person %}
