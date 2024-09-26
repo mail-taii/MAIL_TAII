@@ -9,7 +9,10 @@ date: 2012-03-01
 location: "中国上海"
 description: "Hello I am lww"
 avatar: "avatar/李文武照片_.jpg"
+email: "2411512@tongji.edu.cn"
 slug: "lww"
+links:
+  - "publications"
 ---
 
 ## 教育经历

@@ -11,6 +11,8 @@ description: "Hello I am cyy"
 avatar: "avatar/曹昀炀图片.jpg"
 email: "caoyunyang@tongji.edu.cn"
 slug: "cyy"
+links:
+  - "publications"
 ---
 
 

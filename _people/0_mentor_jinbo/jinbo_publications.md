@@ -1,59 +1,15 @@
 ---
+layout: person
 name: "金博"
-collection: people
-type: "Person"
-level: "mentor"
-permalink: /people/jinbo
-venue: "UC San Francisco, Department of Testing"
-date: 2012-03-01
-location: "中国上海"
-description: "博士 副教授 博导"
-email: "bjin@tongji.edu.cn"
+permalink: /people/jinbo/publications
 avatar: "https://sse.tongji.edu.cn/__local/C/1B/74/17AF4B958EAC5AF67CEA91B2C72_83047223_10E26.jpg"
-slug: "jinbo"
+email: "2433296@tongji.edu.cn"
+github: "https://github.com/BriSky-2021"
 bio: "同济大学博士 副教授 博导"
+description: "博士 副教授 博导"
+slug: "jinbo"
 ---
 
-
-### 主讲课程
-
-计算机系统结构
-
-
-
-### 研究方向
-
-☆机器学习、多智能体强化学习、群体智能理论及应用
-
-
-
-### 代表性科研项目
-
-1、ZF预研项目, 可解释性××××技术, 2022-2024，项目负责人.
-
-2、国家自然科学基金青年项目, 面向电子健康档案的患者相似度模型研究及其儿童社区获得性肺炎临床应用, 2018–2020, 项目负责人.
-
-3、上海市科委创新行动计划人工智能科技支持专项, 面向多模态医学数据开放共享的数据治理解决方案, 2020-2022 课题负责人.
-
-4、上海市科委创新行动计划人工智能科技支持专项, 可信人工智能关键共性技术研究, 2020-2022, 核心骨干.
-
-5、科技部科技创新2030—新一代人工智能重大项目, 结构自适应自演化的高级机器学习方法研究,2020-2023，核心骨干.
-
-6、国家自然科学基金重点项目, 面向患者健康档案的患者健康轨迹过程建模以及在呼吸道疾病的临床应用研究, 2017–2020，核心骨干.
-
-7、上海市科委创新行动计划基础研究项目重点项目, 基于统计关联学习的异构数据融合理论方法及计算, 2015–2018, 核心骨干.
-
-8、欧冶工业品企业合作项目, 面向钢铁工业品的商机挖掘与智能匹配技术, 2023-2023，项目负责人.
-
-9、卡斯柯企业合作项目, 面向智慧城轨的可信人工智能技术, 2020-2021, 子项目负责人.
-
-10、卡斯柯企业合作项目, 基于深度学习的地铁视频分析研究, 卡斯柯信号有限公司，2019-2020，项目负责人.
-
-11、卡斯柯企业合作项目, 基于计算机视觉的轨交系统自动化测试技术, 卡斯柯信号有限公司，2018–2019，项目负责人.
-
-
-
-### 代表性论文
 
 1、Wenhao Li, Bo Jin, Xiangfeng Wang, Junchi Yan, Hongyuan Zha. F2A2: Flexible fully-decentralized approximate actor-critic for cooperative multi-agent reinforcement learning. Journal of Machine Learning Research (JMLR). 2023.
 

@@ -11,6 +11,8 @@ description: "Hello I am rjy"
 avatar: "avatar/饶季勇图片.jpg"
 email: "jiyongrao@tongji.edu.cn"
 slug: "rjy"
+links:
+  - "publications"
 ---
 
 

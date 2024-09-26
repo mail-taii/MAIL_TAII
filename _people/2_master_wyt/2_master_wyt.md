@@ -14,6 +14,8 @@ github: "https://github.com/BriSky-2021"
 research_direction: "None"
 bio: "This is bio"
 slug: "wyt"
+links:
+  - "publications"
 ---
 
 

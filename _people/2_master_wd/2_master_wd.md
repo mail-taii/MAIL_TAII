@@ -11,6 +11,8 @@ description: "Hello I am wd"
 avatar: "avatar/吴笛图片.jpg"
 slug: "wd"
 bio: "this is a simple bio"
+links:
+  - "publications"
 ---
 
 ## 教育经历

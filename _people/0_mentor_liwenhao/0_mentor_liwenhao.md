@@ -9,9 +9,12 @@ date: 2012-03-01
 location: "中国上海"
 description: "Assistant Professor"
 avatar: "https://sse.tongji.edu.cn/__local/8/51/00/27B46E6E70B38E30C9BDCB76DE1_ECD96EE0_112E.jpg"
-slug: "liwenwu"
+slug: "liwenhao"
 email: "whli@tongji.edu.cn"
 bio: "I am a Tenure-Track Assistant Processor in the School of Software Engineering at the Tongji University. "
+links:
+  - "publications"
+  - "talks"
 ---
 
 ### BIO

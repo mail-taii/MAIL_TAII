@@ -11,6 +11,8 @@ description: "Hello I am dl"
 avatar: "avatar/丁露图片.jpg"
 email: "2210752@tongji.edu.cn"
 slug: "dl"
+links:
+  - "publications"
 ---
 
 ## 教育经历

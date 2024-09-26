@@ -11,6 +11,8 @@ description: "Hello I am hyg"
 avatar: "avatar/何仰光图片.jpg"
 email: "heyg@tongji.edu.cn"
 slug: "hyg"
+links:
+  - "publications"
 ---
 
 ## 教育经历

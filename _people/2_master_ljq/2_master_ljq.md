@@ -11,6 +11,8 @@ description: "Hello I am ljq"
 avatar: "avatar/吕嘉琪图片.jpg"
 email: "lvjiaqi@tongji.edu.cn"
 slug: "ljq"
+links:
+  - "publications"
 ---
 
 
