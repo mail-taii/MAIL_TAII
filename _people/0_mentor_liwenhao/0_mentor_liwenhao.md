@@ -17,6 +17,8 @@ links:
   - "talks"
 ---
 
+[个人主页](https://ewanlee.weebly.com/)
+
 ### BIO
 I am a Tenure-Track Assistant Processor in the School of Software Engineering at the Tongji University. My research interests mainly include theoretical understanding, algorithmic improvements and practical application of AI agents, reinforcement learning, multi-agent systems and generative models.
 

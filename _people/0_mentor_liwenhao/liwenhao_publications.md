@@ -9,7 +9,7 @@ description: "Assistant Professor"
 slug: "liwenhao"
 ---
 
-
+我的 Google 学术页面在[这里](https://scholar.google.com/citations?user=HAtzuaYAAAAJ&hl=en)， 其中包含包括预印本在内的论文完整列表。
 
 ## Journals
 
