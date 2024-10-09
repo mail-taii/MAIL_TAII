@@ -9,7 +9,6 @@ description: "Ph.D. candidate"
 avatar: "avatar/曹昀炀图片.jpg"
 email: "caoyunyang@tongji.edu.cn"
 leetcode: "https://leetcode.cn/u/caoy-9/"
-github: "https://leetcode.cn/u/caoy-9/"
 bio: "Research interests: Explainable AI, Large Language Model."
 slug: "cyy"
 links:

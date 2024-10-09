@@ -10,7 +10,7 @@ location: "中国上海"
 description: "Master Student"
 avatar: "avatar/王艳天图片.jpg"
 email: "2433296@tongji.edu.cn"
-github: "https://github.com/BriSky-2021"
+github: "BriSky-2021"
 bio: "This is bio"
 slug: "wyt"
 links:

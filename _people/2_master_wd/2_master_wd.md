@@ -8,7 +8,7 @@ location: "中国上海"
 description: "Master Student"
 avatar: "avatar/吴笛图片.jpg"
 email: "diwu7012@gmail.com"
-github: "https://github.com/poopoo3882"
+github: "poopoo3882"
 slug: "wd"
 bio: "hello, I am wudi"
 links:
